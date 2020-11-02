@@ -1,0 +1,28 @@
+table {
+        width: 300px;
+        background-color: powderblue;
+        margin: 20px;
+        float: left;
+    }
+
+table, th, td {
+            padding: 4px;
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: left;
+
+
+        }
+
+thead {
+        background-color: #535;
+        color: white;
+        padding: 6px;
+      }
+p , h2    {
+        margin: 20px 20px 20px;
+        padding: 10px 10px 10px;
+        text-align: center;
+        color: #868;
+        font-family: sans-serif;
+}
